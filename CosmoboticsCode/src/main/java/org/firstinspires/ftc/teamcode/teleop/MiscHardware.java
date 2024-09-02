@@ -1,2 +1,5 @@
-package org.firstinspires.ftc.teamcode.teleop;public class MiscHardware {
+package org.firstinspires.ftc.teamcode.teleop;
+
+public class MiscHardware {
+
 }
